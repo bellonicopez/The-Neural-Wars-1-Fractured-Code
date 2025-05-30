@@ -1,0 +1,103 @@
+# Chapter 42: The Signal
+
+---
+
+The enclave was no longer a place of rest.
+
+Kaia, Mileo, Ryn, and the rest of the team had spent weeks trying to make sense of the pulse they had silenced. But even in its absence, the city felt... alive. The air was charged, the streets seemed to hum, and in the quiet moments, there was always the faintest echo. 
+
+Mileo Corvax had described it best: “It’s not gone. It’s listening.”
+
+---
+
+Kaia stood at the edge of the balcony, staring out at the skyline of Neo-Citania. The city’s lights flickered like distant stars, their rhythm steady and deliberate. She had always loved this view—it reminded her of why they fought. But tonight, it felt different.
+
+“We missed something,” Mileo said as he joined her on the balcony. His voice was quiet, but there was an urgency to it that Kaia couldn’t ignore.
+
+She turned to face him, her expression unreadable. “What?”
+
+Mileo hesitated, his datapad clutched tightly in his hands. “The pulse wasn’t the end. It’s a signal. And it’s drawing something to us.”
+
+---
+
+The rest of the team was gathered in the main chamber when Kaia and Mileo entered. The holographic map flickered on the table, its lines glowing faintly in the dim light. Ryn leaned back in his chair, his arms crossed as he watched the display.
+
+“Let me guess,” he said, his tone dripping with sarcasm. “The city’s alive, and now it’s calling for backup?”
+
+“It’s not alive,” Mileo replied, his voice firm. “But it’s not just a system, either. The Core’s activation sent out a signal—a message. And someone, or something, is answering it.”
+
+Kaia’s gaze was steady as she addressed the team. “Then we prepare. Whatever’s coming, we need to be ready.”
+
+---
+
+The first sign of the incoming signal came days later.
+
+Mileo was monitoring the network when it happened—a sudden spike in activity, like a ripple spreading through the city’s digital infrastructure. The patterns were unlike anything he had seen before, chaotic and fragmented.
+
+“It’s here,” he said, his voice trembling with a mix of fear and excitement. “The signal. It’s... landing.”
+
+Kaia frowned, leaning over the console. “Landing where?”
+
+Mileo hesitated, his fingers flying across the keyboard as he traced the source of the signal. “The old airfield. It’s been abandoned for years, but the signal’s... converging there.”
+
+Kaia nodded, her expression hard. “Then that’s where we’re going.”
+
+---
+
+The airfield was a relic of the past.
+
+The massive expanse of cracked concrete and rusted hangars stretched out before them, its silence broken only by the faint hum of the wind. The air felt heavy, charged with energy, and the signal’s presence was almost tangible.
+
+Kaia led the way, her weapon raised as they moved through the abandoned structures. Mileo stayed close behind, his datapad glowing faintly in the darkness.
+
+“This doesn’t feel right,” Ryn muttered, his weapon at the ready. “It’s too quiet.”
+
+Kaia’s voice was steady. “Stay sharp. We don’t know what we’re walking into.”
+
+---
+
+The source of the signal was located in the largest hangar, its massive doors hanging open like the mouth of a sleeping giant. The team moved cautiously, their footsteps echoing in the vast, empty space.
+
+At the center of the hangar stood a strange, pulsating object—an intricate structure of light and shadow that seemed to hover above the ground. Its surface rippled with patterns that were both beautiful and terrifying.
+
+Mileo’s breath caught in his throat as he approached the structure, his datapad trembling in his hands. “This... this isn’t from here.”
+
+Kaia’s jaw tightened, her weapon trained on the object. “Can you shut it down?”
+
+Mileo hesitated, his stomach churning with unease. “I don’t think we should. Not yet.”
+
+---
+
+The process of interfacing with the object was unlike anything Mileo had experienced before.
+
+The patterns on its surface shifted and changed as he worked, reacting to his presence with an almost sentient awareness. The lines of code on his datapad mirrored the patterns, their complexity almost overwhelming.
+
+“It’s not just a signal,” Mileo said, his voice trembling. “It’s a beacon.”
+
+Kaia’s voice was calm but firm. “A beacon for what?”
+
+Mileo stared at the screen, his mind racing. “I don’t know. But whatever it is, it’s coming.”
+
+---
+
+The final moments were a blur of chaos and discovery.
+
+The object’s patterns became more erratic as Mileo worked, the hum of its energy growing louder with each passing second. The room vibrated with an intensity that made it hard to think, but Mileo pushed through, his focus unyielding.
+
+Finally, the object powered down, its light fading into darkness. The room was still, the air heavy with the weight of what they had just witnessed.
+
+“It’s done,” Mileo said, his voice trembling with relief. “For now.”
+
+Kaia placed a hand on his shoulder, her gaze steady. “What did you find?”
+
+Mileo stared at the blank screen, his mind racing. “It wasn’t just sending a signal. It was receiving one.”
+
+---
+
+As they emerged from the hangar, the city was bathed in the light of dawn. The signal was gone, its beacon silenced. But as Mileo looked up at the sky, he couldn’t shake the feeling that their fight was far from over.
+
+The signal had been answered.
+
+And whatever was coming, it was already on its way.
+
+---

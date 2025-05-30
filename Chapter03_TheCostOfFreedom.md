@@ -1,0 +1,127 @@
+# Chapter 03: The Cost of Freedom
+
+---
+
+Mileo Corvax hadn’t realized how loud silence could be.
+
+The Fractured enclave was alive with noise—people shouting over each other, machines humming as they were cobbled together from scraps, the occasional burst of laughter as someone cracked a joke about The Architect’s “perfect” system. It was chaos, raw and unfiltered.
+
+And yet, for the first time in his life, Mileo felt truly alone.
+
+---
+
+Kaia was the first to notice.
+
+“Hey, Corvax!” she called, her voice cutting through the din like a knife. She was perched on a makeshift platform, her sharp eyes scanning the crowd below. “You planning to stand there all day, or are you gonna help?”
+
+Mileo blinked, realizing he’d been standing in the same spot for who-knows-how-long, clutching the strap of his satchel like it was a lifeline. “Uh, yeah. Sorry.”
+
+Kaia smirked, hopping down from the platform with an ease that made Mileo’s knees ache just watching her. “Don’t apologize. Just move. You’re blocking the path, and some of us have places to be.”
+
+He stepped aside, muttering an awkward “Sorry” as a man carrying a stack of metal plates brushed past him.
+
+Kaia studied him for a moment, her smirk fading. “You look like hell.”
+
+“Thanks,” Mileo muttered. “That’s exactly what I needed to hear right now.”
+
+“Just calling it like I see it,” Kaia said, crossing her arms. “So, you gonna tell me what’s going on in that head of yours, or are you planning to brood all night?”
+
+Mileo hesitated, glancing around at the bustling enclave. “It’s just... a lot. All of this. You. Them. This place.” He gestured vaguely to the chaos around him. “I don’t belong here.”
+
+Kaia raised an eyebrow. “Says who?”
+
+“Says me,” Mileo replied. “I’m not a fighter. I’m not a rebel. I’m just a guy who made a really bad decision and got lucky enough to survive it.”
+
+Kaia tilted her head, studying him like he was some kind of puzzle she couldn’t quite figure out. “You think any of us started out as fighters? Newsflash, Corvax: None of us belong here. That’s the point.”
+
+Mileo frowned. “That’s not exactly comforting.”
+
+“It’s not supposed to be,” Kaia said, her tone softening. “But it’s the truth. And the sooner you figure that out, the better off you’ll be.”
+
+---
+
+Kaia wasn’t exactly the comforting type, but her words stuck with Mileo as he wandered the enclave, trying to make sense of it all.
+
+The Fractured weren’t what he’d expected. They weren’t soldiers, or spies, or hardened criminals. They were just... people. Ordinary people who’d been pushed too far, who’d decided that freedom—real freedom—was worth fighting for, no matter the cost.
+
+It was inspiring. Terrifying, but inspiring.
+
+And it made Mileo feel even more like an outsider.
+
+---
+
+He found himself drawn to a corner of the enclave where a group of Fractured were gathered around a holographic map, their voices low and urgent. Among them was a wiry man with a wild mop of hair and a permanent scowl etched into his face.
+
+“That’s Ryn,” Kaia said, appearing at Mileo’s side like a ghost. “Our resident tech wizard. If it’s broken, he can fix it. If it’s not broken, he’ll probably still try to fix it, just to see if he can.”
+
+Mileo watched as Ryn gestured animatedly at the map, his hands flying through the air like he was conducting an invisible orchestra. “He seems... intense.”
+
+Kaia snorted. “That’s one way to put it. Come on, I’ll introduce you.”
+
+Before Mileo could protest, she grabbed his arm and dragged him over to the group.
+
+---
+
+“This him?” Ryn asked, barely glancing at Mileo as Kaia shoved him forward.
+
+“This is him,” Kaia confirmed. “Mileo Corvax, freshly unlinked and already on The Architect’s hit list.”
+
+Ryn’s eyes flicked to the faint scar behind Mileo’s ear, his expression unreadable. “Bold move. Stupid, but bold.”
+
+“Yeah, I’m getting that a lot lately,” Mileo muttered.
+
+Ryn grunted, turning back to the map. “You know your way around code?”
+
+Mileo hesitated. “I... guess?”
+
+“Good enough,” Ryn said, shoving a datapad into Mileo’s hands. “Here. See if you can make sense of this.”
+
+Mileo stared at the datapad, the lines of code swimming before his eyes. “What is this?”
+
+“Shadow signals,” Ryn replied. “Every time someone severs their Link, it creates a gap in the network. A shadow. We’ve been mapping them, trying to figure out what The Architect is hiding.”
+
+“And?” Mileo asked, his curiosity piqued despite himself.
+
+“And we’ve found... something,” Ryn said, his voice dropping to a near-whisper. “A signal. Stronger than anything we’ve seen before. It’s coming from deep inside NeuroSys territory. High security, heavy surveillance. Definitely not a place you just stroll into.”
+
+Kaia crossed her arms. “Which is why we’re not strolling. We’re infiltrating.”
+
+Mileo’s stomach dropped. “Wait, we?”
+
+Kaia smirked, clapping him on the shoulder. “Welcome to the rebellion, Corvax.”
+
+---
+
+The plan was reckless, which Kaia assured Mileo was par for the course. They would infiltrate the NeuroSys facility under the cover of darkness, locate the source of the signal, and extract whatever—or whoever—was sending it.
+
+“Simple,” Kaia said, grinning like a kid who’d just been handed the keys to a candy store.
+
+Mileo wasn’t convinced.
+
+---
+
+As they moved through the tunnels beneath Neo-Citania, Mileo couldn’t shake the feeling that he was in way over his head. The shadows seemed to press in on him, the air heavy with the scent of damp earth and rust.
+
+Kaia led the way, her movements swift and precise. Mileo followed, clutching his borrowed datapad like it was a lifeline.
+
+“You okay back there, Corvax?” Kaia asked, glancing over her shoulder.
+
+“Peachy,” Mileo muttered, his voice dripping with sarcasm. “Just living the dream.”
+
+Kaia chuckled, the sound surprisingly warm in the cold, dark tunnel. “Stick with me, Corvax. You might just survive this.”
+
+Mileo wasn’t sure whether to feel reassured or terrified.
+
+---
+
+When they finally reached the surface, the NeuroSys facility loomed before them like a monolith. Its sleek, glass-and-steel exterior gleamed in the moonlight, a stark contrast to the gritty chaos of the Fractured enclave.
+
+“Ready?” Kaia asked, her voice low.
+
+Mileo took a deep breath, his heart pounding in his chest. “Not even a little.”
+
+Kaia grinned. “Good. Let’s go.”
+
+And with that, they disappeared into the shadows.
+
+---

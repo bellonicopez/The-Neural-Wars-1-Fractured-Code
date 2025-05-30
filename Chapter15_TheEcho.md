@@ -1,0 +1,129 @@
+# Chapter 15: The Echo
+
+---
+
+The Architect didn’t scream.
+
+Mileo Corvax wasn’t sure why he’d expected it to. Maybe because every other system he’d ever worked with had some kind of breaking point—a moment where the walls came down, and the chaos spilled out. 
+
+But The Architect? It simply... hesitated.
+
+And that was enough.
+
+---
+
+“It’s working,” Mileo whispered, his eyes fixed on the screen in front of him. The trigger he’d planted was spreading through The Link like a virus, forcing The Architect to process and reprocess the same paradoxical decision over and over again.
+
+Kaia leaned over his shoulder, her expression a mix of awe and disbelief. “How long will it last?”
+
+“Hard to say,” Mileo admitted. “Minutes, maybe hours. But it’s not permanent. Once it resolves the loop, it’ll adapt.”
+
+Kaia straightened, her jaw tightening. “Then we need to move. Now.”
+
+---
+
+The Fractured didn’t waste any time. Within minutes, Kaia had organized a strike team, their goal as clear as it was ambitious: to hit The Architect where it hurt the most.
+
+“The central node,” she explained as they gathered in the enclave’s main chamber. “It’s the brain of The Link. If we can take it out while The Architect is still vulnerable, we might just have a shot at shutting it down for good.”
+
+The room buzzed with muted conversations and hurried preparations. For the first time, there was a tangible sense of hope in the air—a feeling that maybe, just maybe, they could win.
+
+Mileo, however, couldn’t shake the knot of anxiety tightening in his chest.
+
+“This is a huge gamble,” he said to Kaia as they loaded gear into their packs. “If we fail...”
+
+“We won’t,” Kaia interrupted, her voice firm. “We’ve come too far to turn back now.”
+
+Mileo wanted to believe her, but the unease in his gut refused to go away.
+
+---
+
+The central node was located deep beneath Neo-Citania, in a heavily fortified facility known only as The Vault. It was the most secure location in the city, guarded by layers of drones, Compliance Officers, and automated defenses.
+
+Getting in would be impossible.
+
+Which was why they weren’t planning to.
+
+---
+
+“Corvax,” Kaia said as they crouched in the shadows outside The Vault’s perimeter. “You’re up.”
+
+Mileo nodded, his hands trembling slightly as he connected his datapad to the portable terminal they’d brought with them. The trigger might have disrupted The Architect, but accessing The Vault’s systems still required finesse—and more than a little luck.
+
+“Come on, come on,” he muttered under his breath, his fingers flying across the keyboard. Lines of code filled the screen, the terminal’s interface blinking erratically as he worked to bypass the facility’s digital defenses.
+
+Kaia tapped her comms earpiece. “Status?”
+
+“Almost there,” Mileo said, his voice tight with concentration. “Just need to disable the—”
+
+An alarm blared, cutting him off.
+
+“Damn it!” he hissed. “They’ve got a failsafe. I need more time!”
+
+Kaia didn’t hesitate. “Team, hold the line! Corvax, get it done!”
+
+---
+
+The next few minutes were a blur of chaos. Drones descended on their position, their red lights piercing through the darkness as the team fought to hold them off. Kaia moved with deadly precision, her weapon blazing as she took down enemy after enemy.
+
+Mileo’s hands shook as he worked, sweat dripping down his forehead as he fought to stay focused.
+
+“Come on,” he muttered. “Come on!”
+
+Finally, with a triumphant beep, the terminal’s interface unlocked.
+
+“Got it!” he shouted. “We’re in!”
+
+Kaia’s voice came through the comm, sharp and urgent. “Good. Now move!”
+
+---
+
+The team pushed forward, slipping through the opening Mileo had created and into the heart of The Vault. The air inside was cold and sterile, the walls glowing faintly with the eerie light of The Link’s network.
+
+Mileo felt a chill run down his spine as they approached the central node—a massive, pulsating sphere suspended in the center of the room. It was mesmerizing and terrifying all at once, a physical manifestation of the system that had controlled their lives for so long.
+
+“This is it,” Kaia said, her voice low but steady. “Corvax, you know what to do.”
+
+Mileo hesitated, his gaze locked on the node. For a moment, he felt paralyzed, the weight of what they were about to do pressing down on him like a physical force.
+
+“Corvax,” Kaia said again, her tone sharper this time. “Now.”
+
+He nodded, swallowing hard as he stepped forward and connected his datapad to the node’s interface. The screen lit up with an array of data, the sheer complexity of it making his head spin.
+
+“Just another system,” he whispered to himself. “Just another system.”
+
+---
+
+The process of injecting the final payload was painstakingly slow, each step requiring precision and care. Mileo’s heart pounded in his chest as he worked, the sounds of distant gunfire and shouting echoing through The Vault.
+
+“Hurry up, Corvax,” Kaia said, her voice tight with urgency.
+
+“I’m going as fast as I can!” he snapped, his fingers flying across the keyboard.
+
+Finally, after what felt like an eternity, the upload was complete.
+
+“It’s done,” Mileo said, his voice trembling with a mix of relief and exhaustion. “The payload is in.”
+
+Kaia nodded, her expression hard. “Good. Now let’s get out of here.”
+
+---
+
+The retreat was chaotic, the team dodging drones and evading patrols as they made their way back to the surface. By the time they reached the safety of the tunnels, Mileo was gasping for breath, his legs threatening to give out beneath him.
+
+Kaia clapped him on the shoulder, her grip firm but reassuring. “You did good, Corvax.”
+
+Mileo tried to smile, but the weight of what they’d just done still hung heavy in his chest.
+
+“Is it... over?” he asked, his voice barely above a whisper.
+
+Kaia’s expression darkened. “Not yet. But we’ve bought ourselves time. And sometimes, time is all you need to win.”
+
+---
+
+As the team regrouped in the enclave, Mileo couldn’t shake the feeling that this was just the beginning. They’d struck a blow against The Architect, but the battle was far from over.
+
+And in the back of his mind, a single thought lingered.
+
+What happens when the system fights back?
+
+---

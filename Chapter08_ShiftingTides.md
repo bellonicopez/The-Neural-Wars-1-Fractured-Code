@@ -1,0 +1,133 @@
+# Chapter 08: Shifting Tides
+
+---
+
+The Fractured enclave felt different. Tense. Like the air had been sucked out of the room and replaced with static. Conversations were hushed, movements sharper, more deliberate. It was the kind of atmosphere that made Mileo Corvax’s skin crawl.
+
+Something had changed.
+
+“What’s going on?” Mileo asked as he caught up to Kaia, who was striding through the tunnels with her usual brisk pace.
+
+She didn’t slow down. “Harlan’s people sent word. They’ve been hit.”
+
+Mileo frowned, his stomach tightening. “Hit how?”
+
+Kaia glanced over her shoulder, her expression grim. “Compliance raid. Almost their entire outpost in Sector 7 wiped out.”
+
+Mileo felt a chill crawl up his spine. “I thought they were supposed to be careful. Harlan made it sound like they’d been doing this for years.”
+
+“They have,” Kaia said. “Which means The Architect is getting smarter. Or more desperate.”
+
+---
+
+The news of the raid spread quickly, fueling a mix of fear and anger among the Fractured. Some blamed Harlan for drawing too much attention. Others whispered about the possibility of a traitor in their ranks. Paranoia was a luxury they couldn’t afford, but it was creeping in anyway.
+
+Mileo sat in the corner of the main chamber, watching the chaos unfold. He felt out of place, like a cog trying to fit into a machine it wasn’t built for.
+
+“You look like you could use a drink,” Ryn said, dropping into the seat beside him and handing him a battered metal flask.
+
+Mileo took a cautious sip, wincing as the liquid burned its way down his throat. “What is this?”
+
+“Don’t ask,” Ryn replied with a smirk.
+
+Mileo handed the flask back, his throat still on fire. “So, how’s the glamorous rebel life treating you?”
+
+“About as well as you’d expect,” Mileo said, leaning back against the wall. “I’m starting to think I was better off as a corporate drone.”
+
+“Yeah, well, good luck going back now,” Ryn said. “Once you’re Fractured, there’s no undoing it.”
+
+They sat in silence for a moment, the noise of the enclave fading into the background.
+
+“Do you think we’re actually making a difference?” Mileo asked finally.
+
+Ryn didn’t answer immediately. When he did, his voice was quieter than usual. “I think we have to try. Because if we don’t, who will?”
+
+---
+
+Later that night, Kaia called an emergency meeting.
+
+The main chamber was packed, the air buzzing with anticipation and unease. Kaia stood at the center, her presence commanding as always.
+
+“We’ve all heard the news,” she began, her voice steady and clear. “Harlan’s outpost is gone. And if we’re not careful, the same thing could happen to us.”
+
+The crowd murmured in agreement, their faces tense.
+
+“But we’re not going to let that happen,” Kaia continued. “We’ve been on the defensive for too long. It’s time to go on the offensive. It’s time to show The Architect that we’re not just anomalies to be erased. We’re a threat.”
+
+Mileo felt a knot tighten in his stomach. He knew where this was going, and he didn’t like it.
+
+“We’re going to hit them where it hurts,” Kaia said. “Their neural hubs—the heart of The Link. If we take out one of those, we’ll disrupt their entire system. And we’ll send a message.”
+
+The room erupted into a mix of cheers and protests. Some called the plan bold; others called it suicidal.
+
+Mileo raised his hand hesitantly. “How exactly are we supposed to pull this off? It’s not like we can just walk in and ask politely.”
+
+Kaia smirked. “That’s where you come in, Corvax.”
+
+---
+
+The plan was ambitious, to say the least. The neural hub in Sector 3 was one of the most heavily guarded locations in Neo-Citania. It was the digital equivalent of a fortress, with layers of security designed to keep people like them out.
+
+Mileo’s job was to create a backdoor into the hub’s systems—a digital Trojan horse that would allow the Fractured to bypass its defenses.
+
+“No pressure,” Ryn said as he handed Mileo a stack of schematics and a datapad loaded with code.
+
+“Yeah, no pressure,” Mileo muttered, running a hand through his hair. “Just figure out how to hack into the most advanced AI-controlled system in the world. Easy.”
+
+“You’ll figure it out,” Ryn said. “You’re smart. Stupid, but smart.”
+
+“Thanks for the vote of confidence.”
+
+---
+
+The days that followed were a blur of sleepless nights and frantic coding. Mileo worked tirelessly, pushing himself to the brink as he tried to crack The Architect’s defenses.
+
+Kaia checked in on him occasionally, offering words of encouragement that were equal parts sarcastic and sincere.
+
+“You’ve got this, Corvax,” she said one night, leaning against the doorway of his makeshift workspace. “Just remember: if you screw up, we’re all dead.”
+
+“Wow, thanks,” Mileo said, not looking up from his screen. “That’s super helpful.”
+
+Kaia grinned. “Anytime.”
+
+---
+
+Finally, after what felt like an eternity, Mileo had something.
+
+“It’s not perfect,” he said as he presented his work to Kaia and Ryn. “But it should get us in. As long as they don’t notice us right away.”
+
+“That’s a big ‘if,’” Ryn said, studying the code.
+
+“It’s the best I can do,” Mileo said. “Unless you’ve got a better idea.”
+
+Ryn didn’t respond, which Mileo took as a victory.
+
+Kaia clapped him on the shoulder. “Good work, Corvax. Now let’s see if it actually works.”
+
+---
+
+The operation was set for the following night. The Fractured moved with a quiet efficiency, preparing for what could very well be their last stand.
+
+Mileo couldn’t shake the feeling of dread that had settled in his chest. He wasn’t a soldier. He wasn’t a hero. He was just a guy who had stumbled into a fight he didn’t fully understand.
+
+But as he looked around at the faces of the people who had become his makeshift family, he realized something:
+
+He might not be a hero, but he wasn’t going to let them down.
+
+---
+
+The neural hub loomed ahead, its sleek, imposing structure glowing faintly in the darkness.
+
+Kaia led the group, her movements swift and deliberate. Mileo followed close behind, clutching the datapad like it was a lifeline.
+
+“Remember the plan,” Kaia whispered. “We get in, we plant the backdoor, and we get out. Quick and clean.”
+
+“Quick and clean,” Mileo repeated under his breath. “Sure. No problem.”
+
+As they approached the entrance, Mileo’s heart pounded in his chest. He took a deep breath, steeling himself for what was to come.
+
+This was it.
+
+The tide was shifting, and there was no turning back.
+
+---

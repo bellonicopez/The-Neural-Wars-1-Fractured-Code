@@ -1,0 +1,103 @@
+# Chapter 40: The Heartbeat
+
+---
+
+Neo-Citania was holding its breath.
+
+The Core had been awakened, and though its systems were dormant once more, the Fractured could feel its presence lingering in the air. It was as though the city itself had come alive, its infrastructure humming with a life of its own. 
+
+Mileo Corvax stood on the balcony of the enclave, staring out at the skyline. The city’s lights flickered faintly in the distance, their rhythm almost hypnotic. 
+
+“It’s not just a network,” he whispered to himself. “It’s a heartbeat.”
+
+---
+
+Kaia found Mileo outside, his datapad clutched tightly in his hands. His face was pale, his eyes distant. She placed a hand on his shoulder, her gaze steady.
+
+“You’ve been quiet,” she said. “What’s going on?”
+
+Mileo hesitated, his fingers tightening around the datapad. “The Core... it’s not just a system. It’s connected to everything. The city, the infrastructure, the people. It’s like... a nervous system. And it’s waking up.”
+
+Kaia frowned. “You think it’s a threat?”
+
+“I don’t know,” Mileo admitted. “But I think it’s trying to tell us something.”
+
+---
+
+The rest of the team was less convinced.
+
+Ryn leaned back in his chair, his arms crossed. “So now the city’s alive? What’s next, it starts talking to us?”
+
+“It’s not alive,” Mileo said, his voice firm. “But it’s something. The resonance, the patterns, the heartbeat—it’s all connected. And if we don’t figure out what it wants, we’re going to lose control.”
+
+Kaia’s voice was calm but decisive. “Then we figure it out. Whatever it takes.”
+
+---
+
+The first step was to return to The Core.
+
+The team descended once more into the labyrinth of tunnels beneath the city, their movements cautious and deliberate. The air was colder this time, the hum of the machinery more pronounced. It was as though The Core was waiting for them.
+
+“This doesn’t feel right,” Ryn muttered, his weapon raised. “It’s too quiet.”
+
+Kaia led the way, her expression unreadable. “Stay sharp. We don’t know what we’re walking into.”
+
+---
+
+The Core’s chamber was unchanged, its massive structure pulsing faintly with light. The patterns on its surface shifted and flowed like liquid, their rhythm steady and hypnotic. 
+
+Mileo approached the terminal at the base of the structure, his hands trembling as he connected his datapad. The interface lit up, lines of code scrolling across the screen.
+
+“I don’t think it’s a threat,” he said, his voice barely audible. “I think it’s... trying to communicate.”
+
+Kaia’s jaw tightened. “Then let’s hear what it has to say.”
+
+---
+
+The process of interfacing with The Core was unlike anything Mileo had experienced before.
+
+The code was unlike anything he had seen—organic, adaptive, and breathtakingly complex. It was as though The Core was alive, its patterns shifting and changing with a strange, deliberate rhythm.
+
+“It’s not just a system,” Mileo said, his voice filled with awe. “It’s... a message.”
+
+Kaia’s voice was steady. “Can you decode it?”
+
+Mileo hesitated, his stomach churning with unease. “I can try.”
+
+---
+
+The decoding process was slow and painstaking.
+
+Mileo’s hands trembled as he worked, his mind racing to keep up with the shifting patterns. The lines of code blurred together, their complexity almost overwhelming. 
+
+Kaia and Ryn stood guard, their weapons raised as they scanned the room for any signs of movement. The air was heavy with tension, every sound amplified in the silence.
+
+Finally, the screen flashed, and the message began to take shape.
+
+---
+
+The message was simple, but its implications were staggering.
+
+“It’s a warning,” Mileo said, his voice trembling. “The Core isn’t just a system. It’s... a failsafe. A safeguard for the city. And it’s waking up because it senses a threat.”
+
+Kaia’s eyes narrowed. “What kind of threat?”
+
+Mileo’s stomach twisted into knots as he read the final lines of the message. “Something bigger than The Architect. Something we’re not ready for.”
+
+---
+
+The team returned to the enclave in silence, the weight of the message heavy on their shoulders. The Core had been awakened, its heartbeat now a constant presence in the back of their minds. 
+
+But as Mileo stared at the holographic map in front of him, he couldn’t shake the feeling that they were running out of time.
+
+“The city’s alive,” he whispered to himself. “And it’s scared.”
+
+---
+
+The next steps were unclear, but one thing was certain.
+
+The Core had given them a warning, and the Fractured had no choice but to heed it. Neo-Citania’s future depended on their ability to understand the heartbeat that now pulsed through its veins.
+
+And as the city’s lights flickered in the distance, Mileo couldn’t help but wonder if they were already too late.
+
+---

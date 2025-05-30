@@ -1,0 +1,107 @@
+# Chapter 56: Sacrifice
+
+---
+
+Neo-Citania was breaking.
+
+The collapse of the Core Nexus had sent shockwaves through the city, both literal and digital. Systems failed in cascading waves, plunging entire sectors into darkness. The streets were filled with the hum of failing circuits, the flicker of erratic lights, and the faint echoes of the entity’s whispers—lingering fragments of its once-omnipotent presence.
+
+Kaia and the team stood at the edge of the Nexus’s ruined core, their faces illuminated by the faint glow of Mileo’s datapad. The structure around them groaned ominously, its walls shifting as the last remnants of the entity’s influence began to unravel.
+
+“We’ve severed the connections,” Mileo said, his voice trembling with exhaustion. “But it’s not enough.”
+
+Kaia frowned, her jaw tight. “What do you mean?”
+
+Mileo hesitated, his fingers trembling as he pulled up the network’s diagnostics. The lines of code on the screen were chaotic, fragments of the entity’s patterns still pulsing faintly in the background.
+
+“The entity isn’t gone,” he said finally. “It’s... embedded itself into the network. Into the city. If we don’t purge it completely, it’ll rebuild.”
+
+Ryn stepped forward, his expression grim. “And how do we do that?”
+
+Mileo’s voice was barely above a whisper. “We overload the network.”
+
+---
+
+The realization hit them like a physical blow.
+
+Overloading the network would mean destroying not just the entity, but Neo-Citania’s entire infrastructure. The city would be plunged into chaos—its systems offline, its people left to fend for themselves in the ruins of a once-thriving metropolis.
+
+Kaia’s gaze was steady as she addressed the team. “What’s the alternative?”
+
+Mileo shook his head, his expression haunted. “There isn’t one. The entity is too deeply integrated. If we don’t do this, it’ll come back stronger.”
+
+Ryn’s voice was low, his tone laced with frustration. “So we’re just supposed to destroy everything? Leave the city to rot?”
+
+Kaia’s jaw tightened. “We’re supposed to save it. Even if it means starting over.”
+
+---
+
+The plan was simple, but brutal.
+
+Mileo would stay behind to trigger the overload, using the Core Nexus’s remaining systems to amplify the network’s energy output. The rest of the team would evacuate, ensuring the city’s people were as safe as possible before the collapse.
+
+Kaia placed a hand on Mileo’s shoulder, her gaze steady. “Are you sure about this?”
+
+Mileo nodded, his expression resolute. “It has to be me. I’m the only one who can do it.”
+
+Ryn stepped forward, his voice tight with emotion. “There’s got to be another way.”
+
+“There isn’t,” Mileo said firmly. “This is the only way to make sure it’s gone for good.”
+
+Kaia’s voice was calm but firm. “We’ll make it count.”
+
+---
+
+The team moved quickly, navigating the collapsing corridors of the Nexus as they made their way back to the surface. The air was thick with dust and the hum of failing systems, the walls vibrating with the strain of the network’s impending overload.
+
+Kaia led the way, her movements deliberate and precise. Ryn stayed close behind, his weapon ready as he scanned the shadows for any sign of danger.
+
+Mileo’s voice crackled over the comms, his tone steady despite the chaos around him. “You’re almost clear. Keep moving.”
+
+Kaia’s jaw tightened as she responded. “We’re not leaving until you’re ready.”
+
+“You have to,” Mileo said firmly. “There’s no time.”
+
+---
+
+The final moments were a blur of chaos and emotion.
+
+As the team reached the surface, the Nexus behind them began to shudder violently, its structure collapsing in on itself. The sky above was lit with erratic bursts of light as the overload began, the network’s energy surging to critical levels.
+
+Kaia stood at the edge of the ruins, her gaze fixed on the crumbling tower. Her comm crackled faintly, Mileo’s voice barely audible over the noise.
+
+“It’s done,” he said, his voice trembling with relief. “The entity is gone.”
+
+Kaia’s voice was steady, but her eyes glistened with unshed tears. “We’ll see you on the other side.”
+
+Mileo’s voice was soft, almost a whisper. “Goodbye, Kaia.”
+
+The comm went silent.
+
+---
+
+The overload was like nothing Neo-Citania had ever seen.
+
+The network’s energy surged in a blinding wave, ripping through the city’s systems and plunging it into darkness. The air was filled with the hum of dying circuits, the flicker of failing lights, and the distant echoes of the entity’s final whispers.
+
+And then, silence.
+
+---
+
+Kaia and the team stood in the ruins of the city, their faces shadowed with exhaustion and grief. The Core Nexus was gone, its remains buried beneath the rubble. The network was silent, its once-omnipotent presence reduced to nothing.
+
+Ryn’s voice was low, his tone laced with sorrow. “He did it.”
+
+Kaia nodded, her gaze fixed on the horizon. “He saved us.”
+
+---
+
+As the first rays of dawn broke over the city, Neo-Citania stood on the edge of a new beginning. The entity was gone, its influence purged from the network. But the cost had been high, and the road to recovery would be long.
+
+Kaia placed a hand on the remains of Mileo’s datapad, her expression resolute. “We’ll rebuild. And we won’t forget.”
+
+The city was silent.
+
+But for the first time in a long time, there was hope.
+
+---
